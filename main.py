@@ -32,5 +32,5 @@ for sklep, produkt in zakupy.items():
   count = count + len(zakupy.get("piekarnia"))
   wizyta = wizyta + 1
 
-print (f"Totalny total zakupów: {count}")
+print (f"Totalny total zakupów ale zmieniłem to tutaj tu i teraz: {count}")
 
