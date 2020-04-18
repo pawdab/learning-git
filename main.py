@@ -34,4 +34,4 @@ for sklep, produkt in zakupy.items():
 
 print (f"Total zakupów: {count}")
 
-print (f"zmiany zmiany zmiany")
+print (f"zmiany zmiany zmiany tralalalala")
