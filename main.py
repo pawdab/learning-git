@@ -26,9 +26,12 @@ for sklep, produkt in zakupy.items():
     nr_sklepu = "Kolejny"
   else:
     nr_sklepu = liczebniki.get(wizyta)
+  
 
   print(f"{nr_sklepu} sklep to {sklep.capitalize()} i kupuje tu: {str(produkt).title()}")
   count = count + len(zakupy.get("piekarnia"))
   wizyta = wizyta + 1
 
 print (f"Total zakupów: {count}")
+
+print (f"zmiany zmiany zmiany")
